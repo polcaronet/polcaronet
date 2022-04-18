@@ -3,7 +3,7 @@
 - 🏳️ Penso em Atuar na área de IA 
 - 🌱 Linguagens que eu pratico: HTML5, Javascript e Python entre outras.
 - 💬 Me interesso por desenvolvimento web e aplicações para diversos sistemas do IoT. 
-## <div align="right"><img align="right" alt="Rafa-pic" height="130" style="border-radius:20px;" src="https://cdn.discordapp.com/attachments/886994429309780089/965687925310357615/artificial-intelligence-3262753_1280.webp?width=76&height=76"></div>
+<div align="right"><img align="right" alt="Rafa-pic" height="130" style="border-radius:20px;" src="https://cdn.discordapp.com/attachments/886994429309780089/965687925310357615/artificial-intelligence-3262753_1280.webp?width=76&height=76"></div>
 
 ##
 <div align="center">
