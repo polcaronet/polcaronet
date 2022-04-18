@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Anselmo Polcaro
-- 🔭 Hoje faço engenharia de computação no IPRJ
-- 🌱 Estudando HTML5, Javascript e Python entre outras linguages
-- 💬 Aprendo intuitivamente e persevero naquilo que eu faço
+- 🔭 Sou desenvolvedor Junior
+- 🏳️ Penso em Atuar na área de IA 
+- 🌱 Linguagens que eu pratico: HTML5, Javascript e Python entre outras.
+- 💬 Me intereço por desenvolvimento web, e aplicações para diversos sistemas do IoT.
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/polcaronet">
