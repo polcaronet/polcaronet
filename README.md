@@ -3,7 +3,7 @@
 - 🏳️ Penso em Atuar na área de IA 
 - 🌱 Linguagens que eu pratico: HTML5, Javascript e Python entre outras.
 - 💬 Me interesso por desenvolvimento web e aplicações para diversos sistemas do IoT.
-- 😄 Pronouns: ele/dele
+##
 <div align="center">
   <a href="https://github.com/polcaronet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polcaronet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,6 +30,8 @@
    <a href="https://medium.com/@polcaronet" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="mailto:polcaronet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anselmo-polcaro-ribeiro-b2a570207" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+##
     
 ![Snake animation](https://github.com/polcaronet/polcaronet/blob/output/dist/github-contribution-grid-snake.svg)
     
