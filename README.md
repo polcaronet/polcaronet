@@ -19,9 +19,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="170" style="border-radius:70px;" src="https://cdn.discordapp.com/attachments/886994429309780089/965651405790650378/Avatar_Anselmo.jpg?width=676&height=676">
 </div>
-
-##
   
+##
   <div> 
   <a href="https://youtube.com/channel/UCidZ9rDQp3TYIrMV0I9ikvg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/polcaronet/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -30,9 +29,7 @@
    <a href="https://medium.com/@polcaronet" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="mailto:polcaronet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anselmo-polcaro-ribeiro-b2a570207" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-##
-    
+       
 ![Snake animation](https://github.com/polcaronet/polcaronet/blob/output/dist/github-contribution-grid-snake.svg)
     
 </div>
