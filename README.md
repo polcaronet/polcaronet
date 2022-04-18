@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <div align="right"><img align="right" alt="Rafa-pic" height="130" style="border-radius:20px;" src="https://cdn.discordapp.com/attachments/886994429309780089/965687925310357615/artificial-intelligence-3262753_1280.webp?width=46&height=46"></div>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/886994429309780089/965651405790650378/Avatar_Anselmo.jpg?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="130" style="border-radius:20px;" src="https://cdn.discordapp.com/attachments/886994429309780089/965651405790650378/Avatar_Anselmo.jpg?width=676&height=676">
 </div>
   
 ##
