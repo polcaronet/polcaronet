@@ -30,7 +30,6 @@
   <a href="mailto:polcaronet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anselmo-polcaro-ribeiro-b2a570207" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
        
-![Snake animation](https://github.com/polcaronet/polcaronet/blob/output/dist/github-contribution-grid-snake.svg)
-    
+![Generate Datas](https://github.com/polcaronet/polcaronet/actions/workflows/cobrinha.yml/badge.svg)
 </div>
 
