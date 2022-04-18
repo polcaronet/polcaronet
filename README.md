@@ -2,7 +2,7 @@
 - 🔭 Sou desenvolvedor Junior
 - 🏳️ Penso em Atuar na área de IA 
 - 🌱 Linguagens que eu pratico: HTML5, Javascript e Python entre outras.
-- 💬 Me interesso por desenvolvimento web e aplicações para diversos sistemas do ##IoT.
+- 💬 Me interesso por desenvolvimento web e aplicações para diversos sistemas do IoT.
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/polcaronet">
