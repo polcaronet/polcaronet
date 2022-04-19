@@ -9,9 +9,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcaronet&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ansel-Js" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ansel-HTML" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ansel-CSS" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ansel-Js" height="30" width="42" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Ansel-HTML" height="30" width="42" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Ansel-CSS" height="30" width="42" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Ansel-GitHub" height="30" width="42" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
   <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/886994429309780089/965712076007952394/Meu_avatar_github.png?width=676&height=676">
 </div>
