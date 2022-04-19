@@ -13,6 +13,7 @@
   <img align="center" alt="Ansel-HTML" height="30" width="42" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Ansel-CSS" height="30" width="42" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Ansel-GitHub" height="30" width="42" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Ansel-Python" height="30" width="42" src="https://icongr.am/devicon/python-original.svg?size=148&color=currentColor">
   <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/886994429309780089/965712076007952394/Meu_avatar_github.png?width=676&height=676">
 </div>
   
