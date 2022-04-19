@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Anselmo Polcaro
 - 🔭 Sou desenvolvedor Junior
-- 🏳️ Penso em Atuar na área de IA 
-- 🌱 Linguagens que eu pratico: HTML5, Javascript e Python entre outras.
-- 💬 Me interesso por desenvolvimento web e aplicações para diversos sistemas do IoT. 
+- 💬 Penso em Atuar na área de _**IA**_ 
+- 🔗 Linguagens que eu pratico: **HTML5, Javascript e Python** entre outras.
+- ⚙️ Me interesso por desenvolvimento **Web** e aplicações para diversos sistemas do **IoT**. 
 ##
 <div align="center">
   <a href="https://github.com/polcaronet">
