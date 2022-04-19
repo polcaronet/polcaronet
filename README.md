@@ -1,6 +1,6 @@
 ## Hello! I'm **Anselmo Polcaro**
 - 🔭 I'm a junior developer
-- 💬 I think about working in the field of _IA_ 
+- 💬 I think about working in the field of **_IA_** 
 - 🔗 I am interested in learning _Web_ development and applications for various **IoT** languages
 - 📓 I study English every day
 <div align="center">
