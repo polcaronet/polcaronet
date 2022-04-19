@@ -1,8 +1,8 @@
 ## Hello! I'm **Anselmo Polcaro**
 - 🔭 I'm a junior developer
-- 💬 I think about working in the field of_**IA**_ 
-- 🔗 I am interested in learning Web development and applications for various **IoT** languages. 
-- 📓 I study english every day.
+- 💬 I think about working in the field of _IA_ 
+- 🔗 I am interested in learning _Web_ development and applications for various **IoT** languages. 
+- 📓 I study English every day.
 <div align="center">
   <a href="https://github.com/polcaronet">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=polcaronet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
