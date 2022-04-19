@@ -1,9 +1,8 @@
-## Olá! Eu sou o Anselmo Polcaro
-- 🔭 Sou desenvolvedor Junior
-- 💬 Penso em Atuar na área de _**IA**_ 
-- 🔗 Linguagens que eu pratico: **HTML5, Javascript e Python** entre outras.
-- ⚙️ Me interesso por desenvolvimento **Web** e aplicações para diversos sistemas do **IoT**. 
-##
+## Hello! I'm **Anselmo Polcaro**
+- 🔭 I'm a junior developer
+- 💬 I think about working in the field of_**IA**_ 
+- 🔗 I am interested in learning Web development and applications for various **IoT** languages. 
+- 📓 I study english every day.
 <div align="center">
   <a href="https://github.com/polcaronet">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=polcaronet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
