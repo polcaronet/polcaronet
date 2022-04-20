@@ -1,3 +1,31 @@
+
+
+<h1>Meu nome é <code><em>Anselmo Polcaro Ribeiro</em></code> ⚙️</h1>  
+<img alt="Ansel-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/164287748-6f560841-5e61-4758-98fe-158450004fdf.png" alt="Anselmo Polcaro">
+   <h2><strong>Não tenho projeto mas podem me seguir no repositório e nas outras redes sociais!</strong></h2>👇🏻
+   <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/886994429309780089/965712076007952394/Meu_avatar_github.png?width=676&height=676">
+</div>
+        <div style="display: inline_block"><br> 
+     <ul>
+        <li><img alt="Ansel-YouTube" height="20" style="border-radius:10px;" src="https://cdn-icons-png.flaticon.com/512/1384/1384012.png" alt="YouTube"><a href="https://youtube.com/channel/UCidZ9rDQp3TYIrMV0I9ikvg"> <code>polcaronet</code></a> -<strong> <em>Se inscreve lá no meu canal do YouTube<em></strong></li>
+        <li><img alt="Ansel-GitHub" height="20" style="border-radius:10px;" src="https://user-images.githubusercontent.com/66381597/164288964-097a2a7a-fdaf-4a27-bc21-4fdd2f53aa73.png" alt="GitHub"><a href="https://github.com/polcaronet"> <code>polcaronet</code></a> -<strong> <em>Acessa meu repositório público no GitHub</em></strong></li>
+        <li><img alt="Ansel-Instagram" height="20" style="border-radius:10px;" src="https://user-images.githubusercontent.com/66381597/164290342-72f95558-ff54-4f10-80ac-c3610fbeabbf.png" alt="Instagram"><a href="https://www.instagram.com/polcaronet"> <code>polcaronet</code></a> -<strong> <em>Me segue lá no Instagram</em></strong></li>
+        <li><img alt="Ansel-LinkedLin" height="20" style="border-radius:10px;" src="https://user-images.githubusercontent.com/66381597/164290492-ce7d8c34-9a36-406b-a630-146ebcdb9903.png" alt="LinkedLin"><a href="https://www.linkedin.com/in/anselmo-polcaro-ribeiro-b2a570207"> <code>Anselmo Polcaro</code></a> -<strong> <em>Me segue lá no LinkedLin</em></strong></li>
+        <li><img alt="Ansel-Facebook" height="20" style="border-radius:10px;"src="https://user-images.githubusercontent.com/66381597/164290867-4088fb67-7c04-4d73-a689-b832a16915e6.png" alt="Facebook"><a href="https://www.facebook.com/anselmo.polcaro"> <code>Anselmo Polcaro</code></a> -<strong> <em>Me acompanha lá no Facebook</em></strong></li>
+     </ul>
+  <h2 dir="auto"></h2>
+
+
+
+
+
+
+
+
+
+
+
+
 ##  _`Hello everyone!`_  _`I'm Anselmo Polcaro Engineering student`_ ⚙️ 
 - 🔭 **I'm a junior developer**
 - 💬 **I think about working in the field of** **_`IA`_** 
