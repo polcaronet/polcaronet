@@ -1,3 +1,5 @@
+<img align="center" alt="polcaronet-msqlserver"  src="https://komarev.com/ghpvc/?username=polcaronet&style=flat-square">
+
 ##  _`Hello everyone!`_  _`I'm Anselmo Polcaro Engineering student`_ ⚙️ 
 - 🔭 **I'm a junior developer**
 - 💬 **I think about working in the field of** **_`IA`_** 
