@@ -8,8 +8,8 @@
 - [x] **Iniciar HTML5**
 - [x] **Iniciar CSS**
 - [x] **Iniciar GitHub**
+- [x] **Iniciar WordPress**
 - [ ] **Iniciar Java**
-- [ ] **Iniciar WordPress**
 - [ ] **Iniciar Python** 
 - [ ] **Iniciar MySQL**
 
