@@ -9,9 +9,10 @@
 - [x] **Iniciar CSS**
 - [x] **Iniciar GitHub**
 - [x] **Iniciar WordPress**
-- [ ] **Iniciar Java**
-- [ ] **Iniciar Python** 
-- [ ] **Iniciar MySQL**
+>- [ ] **Iniciar Python** 
+>- [ ] **Iniciar MySQL**
+>- [ ] **Iniciar Java**
+
 
  ***
 ##  _`Hello everyone!`_  _`I'm Anselmo Polcaro Engineering student`_ ⚙️ 
