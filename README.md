@@ -6,7 +6,7 @@
 - [x] **Criar um git pages**         
 - [x] **Iniciar Javascript**
 - [x] **Iniciar HTML5**
-- [x] **Iniciar CSS**
+- [x] **Iniciar CSS3**
 - [x] **Iniciar GitHub**
 - [x] **Iniciar WordPress**
 - [ ] **Iniciar Python** 
