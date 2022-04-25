@@ -9,9 +9,9 @@
 - [x] **Iniciar CSS**
 - [x] **Iniciar GitHub**
 - [x] **Iniciar WordPress**
->- [ ] **Iniciar Python** 
->- [ ] **Iniciar MySQL**
->- [ ] **Iniciar Java**
+- [ ] **Iniciar Python** 
+- [ ] **Iniciar MySQL**
+- [ ] **Iniciar Java**
 
 
  ***
