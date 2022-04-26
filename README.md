@@ -23,8 +23,8 @@
 - 🔗 **I'm interested in learning** _**`Web`**_ **development and applications for various** **`IoT`** **languages**
 - 📓 **I study English every day**
 
-##
-<div align="left">
+***
+<div align="center">
   <a href="https://github.com/polcaronet">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=polcaronet&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcaronet&layout=compact&langs_count=7&theme=algolia"/>
@@ -54,7 +54,7 @@
   <a href="https://medium.com/@polcaronet" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
     <a href="mailto:polcaronet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
      
- ##
+ ***
        
 ![Snake animation](https://github.com/polcaronet/polcaronet/blob/output/github-contribution-grid-snake.svg)
 </div>
