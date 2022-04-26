@@ -9,8 +9,9 @@
 - [x] **Iniciar CSS3**
 - [x] **Iniciar GitHub**
 - [x] **Iniciar WordPress**
-- [ ] **Iniciar Python** 
+- [ ] **Iniciar PHP**
 - [ ] **Iniciar MySQL**
+- [ ] **Iniciar Python** 
 - [ ] **Iniciar Java**
 
 
@@ -33,10 +34,11 @@
   <img align="center" alt="Ansel-Nodejs" height="30" width="42"                                              src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ansel-MySQL" height="30" width="42"   src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ansel-WorPress" height="30" width="42"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Ansel-GitHub" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/github/github-original.svg">
   <img align="center" alt="Ansel-HTML" height="30" width="42" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Ansel-CSS" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ansel-GitHub" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/github/github-original.svg">
   <img align="center" alt="Ansel-Python" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/python/python-original.svg">
+  <img align="center" alt="Ansel-PHP" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/165204589-3f8ba5d1-57a3-4b3b-bdbe-dcc61a3f2b9b.png">
   <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/886994429309780089/965712076007952394/Meu_avatar_github.png?width=676&height=676">
 </div>
   
