@@ -10,6 +10,7 @@
 - [x] **Iniciar GitHub**
 - [x] **Iniciar WordPress**
 - [ ] **Iniciar PHP**
+- [ ] **Iniciar PHP POO**
 - [ ] **Iniciar MySQL**
 - [ ] **Iniciar Python** 
 - [ ] **Iniciar Java**
@@ -38,10 +39,12 @@
   <img align="center" alt="Ansel-HTML" height="30" width="42" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Ansel-CSS" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ansel-Python" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/python/python-original.svg">
-  <img align="center" alt="Ansel-PHP" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/165204589-3f8ba5d1-57a3-4b3b-bdbe-dcc61a3f2b9b.png">
+  <img align="center" alt="Ansel-PHP-Poo" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/165206649-10daa833-31e7-434d-a6a4-e4081530ed2d.png">
+ <img align="center" alt="Ansel-PHP" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/165204589-3f8ba5d1-57a3-4b3b-bdbe-dcc61a3f2b9b.png">
   <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/886994429309780089/965712076007952394/Meu_avatar_github.png?width=676&height=676">
 </div>
   
+
 ## ![image](https://user-images.githubusercontent.com/66381597/163893585-ec4a0c99-6901-4610-bc4f-a0bde0de172e.png) <span style="font-family: Arial, sans-serif">_`Social Media`_ 🔝</span> 
   <div> 
   <a href="https://www.linkedin.com/in/anselmo-polcaro-ribeiro-b2a570207" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
