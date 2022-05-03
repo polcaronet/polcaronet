@@ -40,9 +40,7 @@
   <img align="center" alt="Ansel-Python" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/python/python-original.svg">
   <img align="center" alt="Ansel-PHP-Poo" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/165306915-290e12d4-38c1-4b52-b5a4-cbddce2e43f4.png">
  <img align="center" alt="Ansel-Java-Poo" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/165307687-5f6746f4-f609-49f5-a3fc-3b7c930ad382.png">
-   
-
-  <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/886994429309780089/965712076007952394/Meu_avatar_github.png?width=676&height=676">
+  <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
  </td>
 </div>
  
