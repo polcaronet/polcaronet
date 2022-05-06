@@ -1,18 +1,23 @@
   ***
   ## **_`Minhas Metas`_**: <div><img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/164872842-39e47a3b-b1ff-4cd9-a0e5-bb5d5ff11f00.jpg"></div>
 
-- [x] **Criar um git pages**         
-- [x] **Iniciar Javascript**
-- [x] **Iniciar HTML5**
-- [x] **Iniciar CSS3**
-- [x] **Iniciar GitHub**
-- [x] **Iniciar WordPress**
-- [ ] **Iniciar PHP**
-- [ ] **Iniciar PHP POO**
-- [ ] **Iniciar MySQL**
-- [ ] **Iniciar Python** 
-- [ ] **Iniciar Java**
-- [ ] **Iniciar Java POO**
+- [x] **Criar um git pages**
+- [x] **Hospedagem de sites, MySQL, Worpress mais SSL grátis**         
+- [x] **Javascript**
+- [x] **HTML5**
+- [x] **CSS3**
+- [x] **GitHub**
+- [x] **WordPress**
+- [ ] **React**
+- [ ] **Typescript**
+- [ ] **Bootstrap**
+- [ ] **C++**
+- [ ] **PHP**
+- [ ] **PHP POO**
+- [ ] **MySQL**
+- [ ] **Python** 
+- [ ] **Java**
+- [ ] **Java POO**
 
  ***
 ##  _`Hello everyone!`_  _`I'm Anselmo Polcaro Engineering student`_ ⚙️ 
