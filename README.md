@@ -45,7 +45,12 @@
   <img align="center" alt="Ansel-Python" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/python/python-original.svg">
   <img align="center" alt="Ansel-PHP-Poo" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/165306915-290e12d4-38c1-4b52-b5a4-cbddce2e43f4.png">
  <img align="center" alt="Ansel-Java-Poo" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/165307687-5f6746f4-f609-49f5-a3fc-3b7c930ad382.png">
-  <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
+ <img align="center" alt="Ansel-Typescript" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="Ansel-React" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Ansel-Ionic" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/167077713-93e48f64-3a63-4d28-957f-aabe6f9e15a2.png">
+ <img align="center" alt="Ansel-Bootstrap" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/167077951-afb46809-4d28-4b53-9c60-8838d09635c0.png">
+ <img align="center" alt="Ansel-C++" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/167078198-589c663b-87ac-4cbc-9ab5-aedd6dbb213c.png">
+ <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
  </td>
 </div>
  
