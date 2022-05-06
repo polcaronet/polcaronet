@@ -33,23 +33,23 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcaronet&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block"><td>
-  <img align="center" alt="Ansel-Jascript" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ansel-Java" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/java/java-original.svg">
-  <img align="center" alt="Ansel-Nodejs" height="30" width="42"                                              src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ansel-GitHub" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/github/github-original.svg">
-  <img align="center" alt="Ansel-MySQL" height="30" width="42"   src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ansel-WorPress" height="30" width="42"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Ansel-HTML" height="30" width="42" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Ansel-CSS" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ansel-PHP" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/165204589-3f8ba5d1-57a3-4b3b-bdbe-dcc61a3f2b9b.png">
-  <img align="center" alt="Ansel-Python" height="30" width="42" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/python/python-original.svg">
-  <img align="center" alt="Ansel-PHP-Poo" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/165306915-290e12d4-38c1-4b52-b5a4-cbddce2e43f4.png">
- <img align="center" alt="Ansel-Java-Poo" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/165307687-5f6746f4-f609-49f5-a3fc-3b7c930ad382.png">
- <img align="center" alt="Ansel-Typescript" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Ansel-React" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Ansel-Ionic" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/167077713-93e48f64-3a63-4d28-957f-aabe6f9e15a2.png">
- <img align="center" alt="Ansel-Bootstrap" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/167077951-afb46809-4d28-4b53-9c60-8838d09635c0.png">
- <img align="center" alt="Ansel-C++" height="30" width="42" src="https://user-images.githubusercontent.com/66381597/167078198-589c663b-87ac-4cbc-9ab5-aedd6dbb213c.png">
+  <img align="center" alt="Ansel-Jascript" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ansel-Java" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/java/java-original.svg">
+  <img align="center" alt="Ansel-Nodejs" height="33" width="30"                                              src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ansel-GitHub" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/github/github-original.svg">
+  <img align="center" alt="Ansel-MySQL" height="33" width="30"   src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Ansel-WorPress" height="33" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Ansel-HTML" height="33" width="30" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Ansel-CSS" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ansel-PHP" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/165204589-3f8ba5d1-57a3-4b3b-bdbe-dcc61a3f2b9b.png">
+  <img align="center" alt="Ansel-Python" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/python/python-original.svg">
+  <img align="center" alt="Ansel-PHP-Poo" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/165306915-290e12d4-38c1-4b52-b5a4-cbddce2e43f4.png">
+ <img align="center" alt="Ansel-Java-Poo" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/165307687-5f6746f4-f609-49f5-a3fc-3b7c930ad382.png">
+ <img align="center" alt="Ansel-Typescript" height="33" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="Ansel-React" height="33" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Ansel-Ionic" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167077713-93e48f64-3a63-4d28-957f-aabe6f9e15a2.png">
+ <img align="center" alt="Ansel-Bootstrap" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167077951-afb46809-4d28-4b53-9c60-8838d09635c0.png">
+ <img align="center" alt="Ansel-C++" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167078198-589c663b-87ac-4cbc-9ab5-aedd6dbb213c.png">
  <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
  </td>
 </div>
