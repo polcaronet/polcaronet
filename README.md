@@ -8,7 +8,7 @@
 - [x] **CSS3**
 - [x] **GitHub**
 - [x] **WordPress**
-- [ ] **Site dinâmico**
+- [x] **Site dinâmico**
 - [ ] **React**
 - [ ] **Typescript**
 - [ ] **Bootstrap**
