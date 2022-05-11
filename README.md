@@ -44,7 +44,7 @@
   <img align="center" alt="Ansel-HTML" height="33" width="30" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Ansel-CSS" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ansel-SASS" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167758203-44416e10-5b18-4a50-af47-751b311a1f29.png">
-  <img align="center" alt="Ansel-SCSS" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167757465-c2989269-2414-4c0b-ad02-2dadef39f165.png">
+  <img align="center" alt="Ansel-SCSS" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167758552-9210f98b-ad76-451c-92e7-8fb88e921bf6.png">
   <img align="center" alt="Ansel-PHP" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/165204589-3f8ba5d1-57a3-4b3b-bdbe-dcc61a3f2b9b.png">
   <img align="center" alt="Ansel-Python" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/python/python-original.svg">
   <img align="center" alt="Ansel-PHP-Poo" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/165306915-290e12d4-38c1-4b52-b5a4-cbddce2e43f4.png">
