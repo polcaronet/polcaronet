@@ -12,7 +12,7 @@
 - [x] **React**
 - [ ] **Typescript**
 - [ ] **Bootstrap**
-- [ ] **SASS And SCSS**
+- [ ] **SASS and SCSS**
 - [ ] **C++**
 - [ ] **PHP**
 - [ ] **PHP POO**
