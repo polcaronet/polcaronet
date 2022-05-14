@@ -9,7 +9,7 @@
 - [x] **HTML5**
 - [x] **CSS3**
 - [x] **GitHub**
-- [ ] **React**
+- [x] **React**
 - [ ] **Typescript**
 - [ ] **Bootstrap**
 - [ ] **SASS AND SCSS**
