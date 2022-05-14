@@ -10,13 +10,13 @@
 - [x] **CSS3**
 - [x] **GitHub**
 - [x] **React**
-- [ ] **Typescript**
+- [x] **Typescript**
+- [x] **MySQL**
 - [ ] **Bootstrap**
 - [ ] **SASS and SCSS**
 - [ ] **C++**
 - [ ] **PHP**
 - [ ] **PHP POO**
-- [ ] **MySQL**
 - [ ] **Python** 
 - [ ] **Java**
 - [ ] **Java POO**
