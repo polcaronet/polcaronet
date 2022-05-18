@@ -2,16 +2,16 @@
   ## **_`Minhas Metas`_**: <div><img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/164872842-39e47a3b-b1ff-4cd9-a0e5-bb5d5ff11f00.jpg"></div>
 
 - [x] **Criar um git page**
+- [x] **GitHub**
 - [x] **WordPress**     
 - [x] **Javascript**
 - [x] **HTML5**
 - [x] **CSS3**
-- [x] **GitHub**
-- [x] **React**
+- [x] **SASS and SCSS**
 - [x] **Typescript**
+- [x] **React**
 - [x] **MySQL**
 - [x] **Bootstrap**
-- [x] **SASS and SCSS**
 - [ ] **Python** 
 - [ ] **C++**
 - [ ] **PHP**
