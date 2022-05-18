@@ -10,12 +10,12 @@
 - [x] **React**
 - [x] **Typescript**
 - [x] **MySQL**
-- [ ] **Bootstrap**
-- [ ] **SASS and SCSS**
+- [x] **Bootstrap**
+- [x] **SASS and SCSS**
+- [ ] **Python** 
 - [ ] **C++**
 - [ ] **PHP**
 - [ ] **PHP POO**
-- [ ] **Python** 
 - [ ] **Java**
 - [ ] **Java POO**
 
