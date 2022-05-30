@@ -5,7 +5,7 @@
 - [x] **Desenvolvimento Web**
 - [x] **GitHub**
 - [x] **WordPress**     
-- [x] **Javascript`**
+- [x] **Javascript**
 - [x] **HTML5**
 - [x] **CSS3**
 - [x] **SASS and SCSS**
