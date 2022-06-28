@@ -3,7 +3,7 @@
 
 - [x] **Criar um git page**
 - [x] **Desenvolvimento Web**
-- [x] **GitHub**
+- [x] ** Git and GitHub**
 - [x] **WordPress**     
 - [x] **Javascript**
 - [x] **HTML5**
