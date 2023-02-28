@@ -25,7 +25,7 @@
 - 🔭 **I'm a junior developer**
 - 💬 **I think about working in the field of** **_`IA`_** 
 - 🔗 **I'm interested in learning** _**`Web`**_ **development and applications for various** **`IoT`** **languages**
-- 📓 **I study English every day**
+- 📓 **I study English daily**
 
 ***
 <div align="center">
