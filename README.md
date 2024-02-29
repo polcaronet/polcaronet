@@ -71,6 +71,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
 </picture>
-<img alt="animação de cobra na grade de contribuição do github" src="https://raw.githubusercontent.com/polcaronet/snknet/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 </div>
 
