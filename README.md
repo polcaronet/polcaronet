@@ -3,24 +3,22 @@
 
 - [x] **Criar um git page**
 - [x] **Desenvolvimento Web**
-- [x] **Git and GitHub**
-- [x] **WordPress**     
-- [x] **Javascript**
+- [x] **Git and GitHub**     
+- [ ] **Javascript**
+- [ ] **Vue**
 - [x] **HTML5**
-- [x] **CSS3**
-- [x] **SASS and SCSS**
-- [x] **Typescript**
-- [x] **React**
-- [x] **MySQL**
-- [x] **Bootstrap**
+- [ ] **CSS3**
+- [ ] **SASS and SCSS**
+- [ ] **Typescript**
+- [ ] **React**
+- [ ] **MySQL**
+- [ ] **Bootstrap**
 - [ ] **Python** 
 - [ ] **C++**
 - [ ] **PHP**
 - [ ] **PHP POO**
 - [ ] **Java**
 - [ ] **Java POO**
-- [ ] **Java POO**
-
  ***
 ##  _`Hello everyone!`_  _`I'm Anselmo Polcaro Engineering student`_ ⚙️ 
 - 🔭 **I'm a junior developer**
@@ -37,10 +35,10 @@
 <div style="display: inline_block"><td>
   <img align="center" alt="Ansel-Jascript" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ansel-Java" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/java/java-original.svg">
-  <img align="center" alt="Ansel-Nodejs" height="33" width="30"                                              src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ansel-Nodejs" height="33" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ansel-GitHub" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/github/github-original.svg">
   <img align="center" alt="Ansel-MySQL" height="33" width="30"   src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ansel-WorPress" height="33" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Ansel-Vue" height="33" width="30"  src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png">
   <img align="center" alt="Ansel-HTML" height="33" width="30" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Ansel-CSS" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ansel-SASS" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167758203-44416e10-5b18-4a50-af47-751b311a1f29.png">
