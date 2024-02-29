@@ -67,5 +67,10 @@
     <a href="mailto:polcaronet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
      
  *** 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+</picture>
+<img alt="animação de cobra na grade de contribuição do github" src="https://raw.githubusercontent.com/polcaronet/snknet/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 </div>
 
