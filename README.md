@@ -37,7 +37,7 @@
  <img align="center" alt="Ansel-Java" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/java/java-original.svg">
  <img align="center" alt="Ansel-Nodejs" height="33" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
  <img align="center" alt="Ansel-GitHub" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/github/github-original.svg">
- <img align="center" alt="Ansel-MySQL" height="33" width="30"   src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
+ <img align="center" alt="Ansel-MySQL" height="33" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
  <img align="center" alt="Ansel-Vue" height="33" width="30"  src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png">
  <img align="center" alt="Ansel-HTML" height="33" width="30" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
  <img align="center" alt="Ansel-CSS" height="33" width="30" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/css3/css3-original.svg">
@@ -52,7 +52,7 @@
  <img align="center" alt="Ansel-Ionic" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167077713-93e48f64-3a63-4d28-957f-aabe6f9e15a2.png">
  <img align="center" alt="Ansel-Bootstrap" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167077951-afb46809-4d28-4b53-9c60-8838d09635c0.png">
  <img align="center" alt="Ansel-C++" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167078198-589c663b-87ac-4cbc-9ab5-aedd6dbb213c.png">
- <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
+ <img align="right" alt="Ansel-pic" height="150" style="border-radius:50 px;" src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
  </td>
 </div>
  
