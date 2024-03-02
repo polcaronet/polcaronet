@@ -37,8 +37,8 @@
  <img align="center" alt="Ansel-GitHub" height="33" width="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
  <img align="center" alt="Ansel-MySQL" height="33" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
  <img align="center" alt="Ansel-Vue" height="33" width="30"  src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png">
- <img align="center" alt="Ansel-HTML" height="33" width="30" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
- <img align="center" alt="Ansel-CSS" height="33" width="30" src="https://w7.pngwing.com/pngs/224/77/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon.png">
+ <img align="center" alt="Ansel-HTML" height="31" width="29" src="https://img1.gratispng.com/20180425/yce/kisspng-web-development-html-responsive-web-design-logo-ja-html-5ae04a94a1c4d1.3789267115246485966626.jpg">
+ <img align="center" alt="Ansel-CSS" height="30" width="29" src="https://banner2.cleanpng.com/20180704/qpr/kisspng-cascading-style-sheets-logo-css3-html-web-developm-5b3d40a4d013e0.7927254715307409008523.jpg">
  <img align="center" alt="Ansel-SASS" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167758203-44416e10-5b18-4a50-af47-751b311a1f29.png">
  <img align="center" alt="Ansel-SCSS" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167758552-9210f98b-ad76-451c-92e7-8fb88e921bf6.png">
  <img align="center" alt="Ansel-PHP" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/165204589-3f8ba5d1-57a3-4b3b-bdbe-dcc61a3f2b9b.png">
