@@ -10,11 +10,11 @@
 - [x] **Git and GitHub**     
 - [ ] **Javascript**
 - [ ] **Vue**
+- [ ] **Typescript**
+- [ ] **React**
 - [x] **HTML5**
 - [ ] **CSS3**
 - [ ] **SASS and SCSS**
-- [ ] **Typescript**
-- [ ] **React**
 - [ ] **MySQL**
 - [ ] **Bootstrap**
 - [ ] **Python** 
