@@ -66,8 +66,13 @@
   <a href="mailto:polcaronet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
      
  *** 
- https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-contribution-grid-snake.svg
+
  
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+</picture>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
