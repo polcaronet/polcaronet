@@ -58,7 +58,7 @@
  <img align="center" alt="Ansel-C++" height="33" width="30" src="https://user-images.githubusercontent.com/66381597/167078198-589c663b-87ac-4cbc-9ab5-aedd6dbb213c.png">
  <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
  </td>
-</div>
+ </div>
  
 ## <img align="left" src="https://user-images.githubusercontent.com/66381597/163893585-ec4a0c99-6901-4610-bc4f-a0bde0de172e.png"><span style="font-family: Arial, sans-serif">_`Social Media`_ 🔝</span> 
   <div> 
@@ -70,7 +70,7 @@
   <a href="mailto:polcaronet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
      
  *** 
-
-</div>
-
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
 
