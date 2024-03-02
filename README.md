@@ -67,5 +67,5 @@
      
  *** 
 
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/polcaronet/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+ <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 </div>
