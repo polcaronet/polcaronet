@@ -1,4 +1,8 @@
  ***
+ <h1 align="center">
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Anselmo!;" />
+  </h1>
+ 
   ## **_`Minhas Metas`_**: <div><img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/164872842-39e47a3b-b1ff-4cd9-a0e5-bb5d5ff11f00.jpg"></div>
 
 - [x] **Criar um git page**
@@ -66,12 +70,7 @@
   <a href="mailto:polcaronet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
      
  *** 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  img alt="github-snake" src="github-snake.svg" />
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
-</picture>
+
 </div>
 
 
