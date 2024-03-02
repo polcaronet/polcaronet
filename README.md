@@ -3,7 +3,7 @@
      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Anselmo+Polcaro!;+Sou+estudante+de;+Engenharia+de+Computação!" />
   </h1>
  
-  ## **_`Minhas Metas`_**: <div><img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/164872842-39e47a3b-b1ff-4cd9-a0e5-bb5d5ff11f00.jpg"></div>
+ ## **_`Minhas Metas`_**: <div><img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/164872842-39e47a3b-b1ff-4cd9-a0e5-bb5d5ff11f00.jpg"></div>
 
 - [x] **Criar um git page**
 - [x] **Desenvolvimento Web**
@@ -23,18 +23,12 @@
 - [ ] **PHP POO**
 - [ ] **Java**
 - [ ] **Java POO**
- ***
-##  _`Hello everyone!`_  _`I'm Anselmo Polcaro Engineering student`_ ⚙️ 
-- 🔭 **I'm a junior developer**
-- 💬 **I think about working in the field of** **_`IA`_** 
-- 🔗 **I'm interested in learning** _**`Web`**_ **development and applications for various** **`IoT`** **languages**
-- 📓 **I study English daily**
-
 ***
+
 <div align="center">
   <a href="https://github.com/polcaronet">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=polcaronet&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcaronet&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=polcaronet&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcaronet&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><td>
  <img align="center" alt="Ansel-Jascript" height="33" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQNNbFkbl-xcUHDtMbhdQLefvvW4ITAonLg&usqp=CAU">
