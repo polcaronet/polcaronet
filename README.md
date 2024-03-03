@@ -4,7 +4,7 @@
  </h1>
  
  ## **_`Minhas Metas`_**: <div><img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/164872842-39e47a3b-b1ff-4cd9-a0e5-bb5d5ff11f00.jpg"></div>
-
+ 
 - [x] **Criar um git page**
 - [x] **Desenvolvimento Web**
 - [x] **Git and GitHub**     
@@ -30,7 +30,7 @@
 
  <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
  <div>
- <img align="left" height="35" src="https://skillicons.dev/icons?i=c,java,javascript,typescript,react,vue,bootstrap,html,css,scss,mysql,php,github,git,python" /><br>
+ <img align="left" height="40" src="https://skillicons.dev/icons?i=c,java,javascript,typescript,react,vue,bootstrap,html,css,scss,mysql,php,github,git,python" /><img align="left" height="40" src="https://skillicons.dev/icons?i=vscode" /><br>
  </div>
  
  ## <img align="left" src="https://user-images.githubusercontent.com/66381597/163893585-ec4a0c99-6901-4610-bc4f-a0bde0de172e.png"><span style="font-family: Arial, sans-serif">_`Social Media`_ 🔝</span>
@@ -44,7 +44,3 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita;+e+volte+sempre!" />
 </h1>
-
-<link href="https://fonts.googleapis.com/css2?family=Material+Icons"
-      rel="stylesheet">
-
