@@ -31,7 +31,7 @@
 
  <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
  <div>
- <img align="left" height="34" src="https://skillicons.dev/icons?i=c,java,javascript,typescript,react,vue,bootstrap,html,css,scss,mysql,php,github,tailwind,python" /><br>
+ <img align="left" height="34" src="https://skillicons.dev/icons?i=git,java,javascript,typescript,react,vue,bootstrap,html,css,scss,mysql,php,github,tailwind,python" /><br>
  </div>
  
  ## <img align="left" src="https://user-images.githubusercontent.com/66381597/163893585-ec4a0c99-6901-4610-bc4f-a0bde0de172e.png"><span style="font-family: Arial, sans-serif">_`Social Media`_ 🔝</span>
