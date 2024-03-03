@@ -24,6 +24,10 @@
 - [ ] **Java**
 - [ ] **Java POO**
 ***
+ <h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=💬+I+think+about;+working+in+the;+field+of+IA!;+and+📓+learning+;+English+daily+⚙;" /> 
+ </h1>
+ 
   <a href="https://github.com/polcaronet">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=polcaronet&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcaronet&layout=compact&langs_count=7&theme=react"/>
