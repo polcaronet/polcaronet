@@ -24,20 +24,13 @@
 - [ ] **Java**
 - [ ] **Java POO**
 ***
-##  _`Hello everyone!`_  _`I'm Anselmo Polcaro Engineering student`_ ⚙️ 
-- 🔭 **I'm a junior developer**
-- 💬 **I think about working in the field of** **_`IA`_** 
-- 🔗 **I'm interested in learning** _**`Web`**_ **development and applications for various** **`IoT`** **languages**
-- 📓 **I study English daily**
-
-***
   <a href="https://github.com/polcaronet">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=polcaronet&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcaronet&layout=compact&langs_count=7&theme=react"/>
 
  <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
  <div>
- <img align="left" height="35" src="https://skillicons.dev/icons?i=java,javascript,typescript,react,vue,bootstrap,html,css,scss,mysql,php,github,git,python" /><br>
+ <img align="left" height="35" src="https://skillicons.dev/icons?i=c,java,javascript,typescript,react,vue,bootstrap,html,css,scss,mysql,php,github,git,python" /><br>
  </div>
  
  ## <img align="left" src="https://user-images.githubusercontent.com/66381597/163893585-ec4a0c99-6901-4610-bc4f-a0bde0de172e.png"><span style="font-family: Arial, sans-serif">_`Social Media`_ 🔝</span>
