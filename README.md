@@ -31,7 +31,7 @@
  <img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
  <div>
  <img align="left" height="35" src="https://skillicons.dev/icons?i=c,java,javascript,typescript,react,vue,bootstrap,html,css,scss,mysql,php,github,git,python" /><img align="left" height="35" src="https://skillicons.dev/icons?i=vscode" /><br>
- </div><br>
+ </div>
  
  ## <img align="left" src="https://user-images.githubusercontent.com/66381597/163893585-ec4a0c99-6901-4610-bc4f-a0bde0de172e.png"><span style="font-family: Arial, sans-serif">_`Social Media`_ 🔝</span>
   <a href="https://www.linkedin.com/in/anselmo-polcaro-ribeiro-b2a570207" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
