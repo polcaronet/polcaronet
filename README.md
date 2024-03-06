@@ -32,6 +32,7 @@
  <div></div>
  <img align="left" height="37" src="https://skillicons.dev/icons?i=java,javascript,typescript,react,vue,tailwind,bootstrap,html,css,scss,mysql,php,github,git,python" /><br>
  </div>
+  
  ##  <div align="left" alt="Ansel-pic" height="36" style="border-radius:5px;"><span style="font-family: Arial, sans-serif">_`Social Media`_ 🔝</span></div>
  ***
   <a href="https://www.linkedin.com/in/anselmo-polcaro-ribeiro-b2a570207" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
