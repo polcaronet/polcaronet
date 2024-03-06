@@ -19,7 +19,7 @@
 - [ ] **Bootstrap**
 - [ ] **Tailwind**
 - [ ] **Python** 
-- [ ] **C-sharp**
+- [ ] **C-Sharp**
 - [ ] **PHP**
 - [ ] **Java**
 
@@ -30,7 +30,7 @@
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcaronet&layout=compact&langs_count=7&theme=algoria"/>
  <img align="right" alt="Ansel-pic" height="150em" style="border-radius:50px;"src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
  <div></div></a></td>
- <img align="left" height="37" src="https://skillicons.dev/icons?i=java,javascript,typescript,react,vue,tailwind,bootstrap,html,css,scss,mysql,php,github,git,python" /><br>
+ <img align="left" height="37" src="https://skillicons.dev/icons?i=java,javascript,typescript,react,vue,tailwind,cs,html,css,scss,mysql,php,github,git,python" /><br>
  </div>
  
 ##  <h2 align="left" alt="Ansel-pic" height="36em" style="border-radius:5px;"><span style="font-family: Yellowtail, sans-serif">_`Social Media`_ 🔝</span></h2>
