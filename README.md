@@ -33,7 +33,7 @@
  <img align="left" height="37" src="https://skillicons.dev/icons?i=java,javascript,typescript,react,vue,tailwind,bootstrap,html,css,scss,mysql,php,github,git,python" /><br>
  </div>
  
- ##  <img align="left" alt="Ansel-pic" height="36" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/163893585-ec4a0c99-6901-4610-bc4f-a0bde0de172e.png"><span style="font-family: Arial, sans-serif">_`Social Media`_ 🔝</span>
+ ##  <img align="left" alt="Ansel-pic" height="36" style="border-radius:5px;" src="https://user-images.githubusercontent.com/66381597/163893585-ec4a0c99-6901-4610-bc4f-a0bde0de172e.png"><span style="font-family: Arial, sans-serif">_`Social Media`_ 🔝</span>
   <a href="https://www.linkedin.com/in/anselmo-polcaro-ribeiro-b2a570207" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/polcaronet/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://youtube.com/channel/UCidZ9rDQp3TYIrMV0I9ikvg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
