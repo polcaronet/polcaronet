@@ -19,7 +19,7 @@
 - [ ] **Bootstrap**
 - [ ] **Tailwind**
 - [ ] **Python** 
-- [ ] **C#**
+- [ ] **C-sharp**
 - [ ] **PHP**
 - [ ] **Java**
 
