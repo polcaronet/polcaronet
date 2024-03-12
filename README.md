@@ -7,17 +7,17 @@
  
 - [x] **Criar um git page**
 - [ ] **Desenvolvimento Web**
-- [ ] **Git and GitHub**     
+- [ ] **Git and GitHub**
+- [ ] **Tailwind**
+- [ ] **Typescript**      
 - [ ] **Javascript**
 - [ ] **Vue**
-- [ ] **Typescript**
+- [ ] **SASS and SCSS**
 - [ ] **React**
 - [ ] **HTML5**
 - [ ] **CSS3**
-- [ ] **SASS and SCSS**
 - [ ] **MySQL**
 - [ ] **Bootstrap**
-- [ ] **Tailwind**
 - [ ] **Python** 
 - [ ] **C-Sharp**
 - [ ] **PHP**
