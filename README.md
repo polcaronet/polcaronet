@@ -5,17 +5,17 @@
  
  ## **_`Minhas Metas`_**: <div><img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/164872842-39e47a3b-b1ff-4cd9-a0e5-bb5d5ff11f00.jpg"></div>
  
-- [x] **Criar um git page**
-- [ ] **Desenvolvimento Web**
-- [ ] **Git and GitHub**
-- [ ] **Tailwind**
+- [x] **Criar git pages**
+- [x] **TailwindCSS**
+- [x] **Git and GitHub**
+- [ ] **Nestjs**
 - [ ] **Typescript**      
 - [ ] **Javascript**
 - [ ] **Vue**
-- [ ] **SASS and SCSS**
+- [ ] **SASS**
+- [ ] **Nextjs**
 - [ ] **React**
-- [ ] **HTML5**
-- [ ] **CSS3**
+- [ ] **HTMLX**
 - [ ] **MySQL**
 - [ ] **Bootstrap**
 - [ ] **Python** 
@@ -30,8 +30,11 @@
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcaronet&layout=compact&langs_count=7&theme=algoria"/>
  <img align="right" alt="Ansel-pic" height="150em" style="border-radius:50px;"src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
  <div></div></a></td>
- <img align="left" height="37" src="https://skillicons.dev/icons?i=java,javascript,typescript,react,vue,tailwind,cs,html,css,scss,mysql,php,github,git,python" /><br>
+  <div class="flex flex-col">
+ <img align="left" height="37" src="https://skillicons.dev/icons?i=java,javascript,typescript,react,vue,tailwind,cs,html,css,scss,mysql,php,github,git,python" /><br><br>
+ <img align="left" height="37" src="https://skillicons.dev/icons?i=npm,vscode,vercel,vite,figma,mongodb,c,cpp,bootstrap,prisma,reactivex,htmx,nestjs,nodejs,nextjs" />
  </div>
+ </div><br>
  
 ##  <h2 align="left" alt="Ansel-pic" height="36em" style="border-radius:5px;"><span style="font-family: Yellowtail, sans-serif">_`Social Media`_ 🔝</span></h2>
   <a href="https://www.linkedin.com/in/anselmo-polcaro-ribeiro-b2a570207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
