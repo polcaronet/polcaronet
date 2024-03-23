@@ -10,18 +10,20 @@
 - [x] **Git and GitHub**
 - [ ] **Typescript**      
 - [ ] **Javascript**
+- [ ] **React**
 - [ ] **Nestjs**
 - [ ] **Vue**
 - [ ] **SASS**
 - [ ] **Nextjs**
-- [ ] **React**
 - [ ] **HTMLx**
 - [ ] **MySQL**
 - [ ] **Bootstrap**
 - [ ] **HTMLx**
+- [ ] **Angular**
 - [ ] **Python** 
 - [ ] **C-Sharp**
 - [ ] **PHP**
+- [ ] **Figma**
 - [ ] **Java**
 
 ***
@@ -33,7 +35,7 @@
  <div></div></a></td>
  <div class="flex flex-col">
  <img align="left" height="37" src="https://skillicons.dev/icons?i=java,javascript,typescript,react,vue,tailwind,cs,html,css,scss,mysql,php,github,git,python" /><br><br>
- <img align="left" height="37" src="https://skillicons.dev/icons?i=npm,vscode,vercel,vite,figma,mongodb,c,cpp,bootstrap,prisma,reactivex,htmx,nestjs,nodejs,nextjs" />
+ <img align="left" height="37" src="https://skillicons.dev/icons?i=vscode,vercel,vite,figma,mongodb,c,cpp,bootstrap,prisma,angular,reactivex,htmx,nestjs,nodejs,nextjs" />
  </div>
  </div><br>
  
