@@ -10,6 +10,7 @@
 - [x] **Git and GitHub**
 - [ ] **Typescript**      
 - [ ] **Javascript**
+- [ ] **React Native**
 - [ ] **React**
 - [ ] **Nestjs**
 - [ ] **Vue**
