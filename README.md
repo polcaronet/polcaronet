@@ -8,18 +8,17 @@
 - [x] **Criar git pages**
 - [x] **TailwindCSS**
 - [x] **Git and GitHub**
+- [ ] **ReactJS**
 - [ ] **Typescript**      
 - [ ] **Javascript**
 - [ ] **React Native**
-- [ ] **React**
-- [ ] **Nestjs**
+- [ ] **NestJS**
 - [ ] **Vue**
 - [ ] **SASS**
 - [ ] **Nextjs**
-- [ ] **HTMLx**
+- [ ] **HTMLX**
 - [ ] **MySQL**
 - [ ] **Bootstrap**
-- [ ] **HTMLx**
 - [ ] **Angular**
 - [ ] **Python** 
 - [ ] **C-Sharp**
