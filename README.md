@@ -15,7 +15,7 @@
 - [ ] **NestJS**
 - [ ] **Vue**
 - [ ] **SASS**
-- [ ] **Nextjs**
+- [ ] **NextJS**
 - [ ] **HTMLX**
 - [ ] **MySQL**
 - [ ] **Bootstrap**
@@ -24,6 +24,8 @@
 - [ ] **C-Sharp**
 - [ ] **PHP**
 - [ ] **Figma**
+- [ ] **HTML**
+- [ ] **CSS**
 - [ ] **Java**
 
 ***
