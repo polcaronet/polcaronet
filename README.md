@@ -20,13 +20,13 @@
 - [ ] **MySQL**
 - [ ] **Bootstrap**
 - [ ] **Angular**
+- [ ] **Java**
 - [ ] **Python** 
 - [ ] **C-Sharp**
 - [ ] **PHP**
 - [ ] **Figma**
 - [ ] **HTML**
 - [ ] **CSS**
-- [ ] **Java**
 
 ***
  <div style="display: inline_block"><td>
