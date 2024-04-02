@@ -11,7 +11,7 @@
 - [x] **| `Git | GitHub` |**
 - [ ] **| `HTML | CSS` |**
 - [ ] **ReactJS**
-- [ ] **Typescrip`**      
+- [ ] **Typescrip**      
 - [ ] **Javascript**
 - [ ] **React Native**
 - [ ] **NestJS**
