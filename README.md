@@ -7,7 +7,7 @@
  
 - [x] **Publish Githubpages**
 - [x] **Publish Vercel**
-- [x] **`TailwindCSS`**
+- [x] **TailwindCSS**
 - [x] **| `Git | GitHub` |**
 - [ ] **| `HTML | CSS` |**
 - [ ] **ReactJS**
