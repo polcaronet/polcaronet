@@ -9,11 +9,11 @@
 - [x] **Publish Vercel**
 - [x] **TailwindCSS**
 - [x] **| `GitHub ` | `Git` |**
+- [ ] **| Typescript |**    
 - [ ] **| `SASS` | `SCSS` |**
 - [ ] **| `HTML` | `CSS`  |**
 - [ ] **| ReactJS |**
-- [ ] **React Native**
-- [ ] **| Typescript |**      
+- [ ] **| React Native |**
 - [ ] **Javascript**
 - [ ] **NestJS**
 - [ ] **Vue**
