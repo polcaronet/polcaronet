@@ -8,10 +8,11 @@
 - [x] **Publish Githubpages**
 - [x] **Publish Vercel**
 - [x] **TailwindCSS**
-- [x] **| `Git | GitHub` |**
-- [ ] **| `HTML | CSS` |**
+- [x] **| `Git` | `GitHub`|**
+- [ ] **| `SASS | SCSS` |**
+- [ ] **| `HTML` | `CSS` |**
 - [ ] **ReactJS**
-- [ ] **Typescrip**      
+- [ ] **Typescript**      
 - [ ] **Javascript**
 - [ ] **React Native**
 - [ ] **NestJS**
@@ -20,7 +21,6 @@
 - [ ] **HTMLX**
 - [ ] **MySQL**
 - [ ] **Bootstrap**
-- [ ] **| `SASS | SCSS` |**
 - [ ] **Angular**
 - [ ] **Java**
 - [ ] **Python** 
