@@ -8,13 +8,13 @@
 - [x] **Publish Githubpages**
 - [x] **Publish Vercel**
 - [x] **TailwindCSS**
-- [x] **| `Git` | `GitHub`|**
-- [ ] **| `SASS | SCSS` |**
-- [ ] **| `HTML` | `CSS` |**
-- [ ] **ReactJS**
-- [ ] **Typescript**      
-- [ ] **Javascript**
+- [x] **| `GitHub ` | `Git` |**
+- [ ] **| `SASS` | `SCSS` |**
+- [ ] **| `HTML` | `CSS`  |**
+- [ ] **| ReactJS |**
 - [ ] **React Native**
+- [ ] **| Typescript |**      
+- [ ] **Javascript**
 - [ ] **NestJS**
 - [ ] **Vue**
 - [ ] **NextJS**
