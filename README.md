@@ -10,10 +10,9 @@
 - [x] **TailwindCSS**
 - [x] **| `GitHub ` | `Git` |**
 - [x] **| `HTML` | `CSS`  |**
+- [x] **| `ReactJS` |**
 - [ ] **| `Typescript` |**    
 - [ ] **| `SASS` | `SCSS` |**
-
-- [ ] **| `ReactJS` |**
 - [ ] **| `React Native` |**
 - [ ] **Javascript**
 - [ ] **NestJS**
