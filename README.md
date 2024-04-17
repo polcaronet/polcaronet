@@ -11,7 +11,7 @@
 - [x] **| `GitHub ` | `Git` |**
 - [x] **| `HTML` | `CSS`  |**
 - [x] **| `ReactJS` |**
-- [ ] **`NextJS`**
+- [ ] **| `NextJS` |**
 - [ ] **| `Typescript` |**    
 - [ ] **| `SASS` | `SCSS` |**
 - [ ] **| `React Native` |**
