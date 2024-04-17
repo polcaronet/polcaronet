@@ -11,13 +11,13 @@
 - [x] **| `GitHub ` | `Git` |**
 - [x] **| `HTML` | `CSS`  |**
 - [x] **| `ReactJS` |**
+- [ ] **NextJS**
 - [ ] **| `Typescript` |**    
 - [ ] **| `SASS` | `SCSS` |**
 - [ ] **| `React Native` |**
 - [ ] **Javascript**
 - [ ] **NestJS**
 - [ ] **Vue**
-- [ ] **NextJS**
 - [ ] **HTMLX**
 - [ ] **MySQL**
 - [ ] **Bootstrap**
