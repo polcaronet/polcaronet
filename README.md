@@ -12,8 +12,8 @@
 - [x] **| `HTML` | `CSS`  |**
 - [x] **| `SASS` | `SCSS` |**
 - [x] **| `ReactJS` |**
-- [ ] **| `NextJS` |**
-- [ ] **| `Typescript` |**    
+- [x] **| `NextJS` |**
+- [x] **| `Typescript` |**    
 - [ ] **| `React Native` |**
 - [ ] **Javascript**
 - [ ] **NestJS**
