@@ -1,6 +1,6 @@
  ***
  <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+meu+nome+é;+Anselmo+Polcaro+Ribeiro.;+🎓+estou+desenvolvendo;+aplicações+de+fron-end;+e+de+back-end;+mas+eu+💬+penso;+em+trabalhar...;+como+desenvolvedor+full+Stack!;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+meu+nome+é;+Anselmo+Polcaro+Ribeiro.;+🎓+estou+desenvolvendo;+aplicações+de+fron-end;+e+de+back-end;+sou+💬+desenvolvedor+full+Stack!;" />
  </h1>
  
  ## **_`Minhas Metas`_**: <div><img align="right" alt="Ansel-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/66381597/164872842-39e47a3b-b1ff-4cd9-a0e5-bb5d5ff11f00.jpg"></div>
