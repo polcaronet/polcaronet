@@ -13,7 +13,7 @@
 - [x] **| `NextJS` |**
 - [x] **| `Typescript` |**    
 - [ ] **| `React Native` |**
-- [ ] **Javascript**
+- [ ] **| `Javascript` |**
 - [ ] **NestJS**
 - [ ] **Vue**
 - [ ] **HTMLX**
