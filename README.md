@@ -10,10 +10,10 @@
 - [x] **| `HTML` | `CSS`  |**
 - [x] **| `SASS` | `SCSS` |**
 - [x] **| `ReactJS` |**
+- [x] **| `Javascript` |**
 - [x] **| `NextJS` |**
 - [x] **| `Typescript` |**    
 - [ ] **| `React Native` |**
-- [ ] **| `Javascript` |**
 - [ ] **NestJS**
 - [ ] **Vue**
 - [ ] **HTMLX**
