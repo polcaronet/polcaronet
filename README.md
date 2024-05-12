@@ -29,7 +29,7 @@
 ***
  <div style="display: inline_block"><td>
  <a href="https://github.com/polcaronet">
- <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=polcaronet&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+ <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=polcaronet&show_icons=true&theme= &include_all_commits=true&count_private=true"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcaronet&layout=compact&langs_count=7&theme=gruvbox_light"/>
  <img align="right" alt="Ansel-pic" height="150em" style="border-radius:50px;"src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
  <div></div></a></td>
