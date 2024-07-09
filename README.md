@@ -6,7 +6,7 @@
 ##  _**Quem sou eu?**_
  
   **Anselmo Polcaro** de ensino superior incompleto de engenharia de computação, brasileiro, apaixonado por desenvolvimento de **Apps** e **Sistemas Web**,
-  atualmente focado em adquirir o máximo de aproveitamento do meu curso e depois seguir para crianção de **sites** e ***Aplicativos**.    
+  atualmente focado em adquirir o máximo de aproveitamento do meu curso e depois seguir para crianção de **sites** e **Aplicativos**.    
  
 ***
  <div style="display: inline_block"><td>
