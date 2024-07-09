@@ -2,6 +2,11 @@
  <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+meu+nome+é;+Anselmo+Polcaro+Ribeiro.;+🎓+estou+desenvolvendo;+aplicações+de+front-end;+e+de+back-end;+sou+desenvolvedor+FullStack!;" />
  </h1>
+
+ _**Quem sou eu?**_
+ 
+  **Anselmo Polcaro** de ensino superior incompleto de engenharia de computação, brasileiro, apaixonado por desenvolvimento de **Apps** e **Sistemas Web**,
+  atualmente focado em adquirir o máximo de aproveitamento do meu curso e depois seguir para crianção de **sites** e ***Aplicativos**.    
  
 ***
  <div style="display: inline_block"><td>
@@ -18,7 +23,7 @@
  
  ***
  
- _**Full Stack Developer**_
+ _**Contact me:**_
 <div class="flex flex-col"><br>
 <p align="left">
 <a href="https://www.linkedin.com/in/anselmo-polcaro-ribeiro-b2a570207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
