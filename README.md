@@ -5,8 +5,8 @@
 
 #  _**Quem sou eu?**_
  
-  **`Anselmo` `Polcaro`**, ensino superior incompleto de engenharia de computação, brasileiro, apaixonado por desenvolvimento de **`Apps`** e **`Sistemas` `Web`**,
-  atualmente focado em adquirir o máximo de aproveitamento do meu curso e depois seguir para crianção de **`Websites`** e **`Aplicativos.`**    
+  **`Anselmo` `Polcaro`**, ensino superior incompleto de engenharia de computação, brasileiro, apaixonado por desenvolvimento de **`Apps`** e de **`Sistemas` `Web`**.
+  Atualmente focado em adquirir o máximo de aproveitamento do meu curso e depois seguir para crianção de **`Websites`** e **`Aplicativos.`**    
  
 ***
  <div style="display: inline_block"><td>
