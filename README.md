@@ -3,7 +3,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+meu+nome+é;+Anselmo+Polcaro.+;+🎓+estou+desenvolvendo;+aplicações+de+front-end;+e+de+back-end;+sou+desenvolvedor+FullStack!;" />
  </h1>
 
-##  _**Quem sou eu?**_
+#  _**Quem sou eu?**_
  
   **`Anselmo` `Polcaro`**, ensino superior incompleto de engenharia de computação, brasileiro, apaixonado por desenvolvimento de **`Apps`** e **`Sistemas` `Web`**,
   atualmente focado em adquirir o máximo de aproveitamento do meu curso e depois seguir para crianção de **`sites`** e **`Aplicativos.`**    
