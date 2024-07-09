@@ -15,10 +15,6 @@
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&username=polcaronet" alt="languages graph">
  <div></div></a></td>
 
-  <div align="center">
-  <img   />
-  <img   />
-</div>
  <div class="flex flex-col">
  <img align="left" height="37" src="https://skillicons.dev/icons?i=java,javascript,typescript,react,vue,tailwind,cs,html,css,scss,mysql,php,github,git,python" /><br><br>
  <img align="left" height="37" src="https://skillicons.dev/icons?i=vscode,vercel,vite,figma,mongodb,c,cpp,bootstrap,prisma,angular,reactivex,htmx,nestjs,nodejs,nextjs" />
