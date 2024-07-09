@@ -1,6 +1,6 @@
  ***
  <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+meu+nome+é;+Anselmo+Polcaro.+;+🎓+estou+desenvolvendo;+aplicações+de+front-end;+e+de+back-end;+sou+desenvolvedor+FullStack!;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+meu+nome+é;+Anselmo+Polcaro+;+🎓+estou+desenvolvendo;+aplicações+de+front-end;+e+de+back-end;+sou+desenvolvedor+FullStack!;" />
  </h1>
 
 #  _**Quem sou eu?**_
@@ -11,10 +11,14 @@
 ***
  <div style="display: inline_block"><td>
  <a href="https://github.com/polcaronet">
- <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=polcaronet&show_icons=true&theme=solarized-lightwhite&include_all_commits=true&count_private=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcaronet&layout=compact&langs_count=7&theme=solarized-light"/>
- <img align="right" alt="Ansel-pic" height="150em" style="border-radius:50px;"src="https://user-images.githubusercontent.com/66381597/166562759-f5d279eb-5dda-46ad-9e7b-e4dee0eee8bc.png?width=676&height=676">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=polcaronet" alt="stats graph"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&username=polcaronet" alt="languages graph">
  <div></div></a></td>
+
+  <div align="center">
+  <img   />
+  <img   />
+</div>
  <div class="flex flex-col">
  <img align="left" height="37" src="https://skillicons.dev/icons?i=java,javascript,typescript,react,vue,tailwind,cs,html,css,scss,mysql,php,github,git,python" /><br><br>
  <img align="left" height="37" src="https://skillicons.dev/icons?i=vscode,vercel,vite,figma,mongodb,c,cpp,bootstrap,prisma,angular,reactivex,htmx,nestjs,nodejs,nextjs" />
