@@ -11,7 +11,7 @@
 ***
  <div style="display: inline_block"><td>
  <a href="https://github.com/polcaronet">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=false&username=polcaronet" alt="stats graph"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=react&locale=en&hide_border=false&username=polcaronet" alt="stats graph"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&username=polcaronet" alt="languages graph"/>
  <div></div></a></td>
 
