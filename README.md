@@ -16,7 +16,7 @@
  <div></div></a></td>
 
  <div class="flex flex-col">
- <img align="left" height="37" src="https://skillicons.dev/icons?i=java,javascript,typescript,react,vue,tailwind,cs,html,css,scss,mysql,php,github,git,python" /><br><br>
+ <img align="left" height="37" src="https://skillicons.dev/icons?i=golang,java,javascript,typescript,react,vue,tailwind,cs,html,css,scss,mysql,php,github,git" /><br><br>
  <img align="left" height="37" src="https://skillicons.dev/icons?i=vscode,vercel,vite,figma,mongodb,c,cpp,bootstrap,prisma,angular,reactivex,htmx,nestjs,nodejs,nextjs" />
  </div>
  </div><br>
