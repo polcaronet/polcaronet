@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/anselmo-polcaro-ribeiro-b2a570207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LInkedIn" target="_blank"></a>
 <a href="https://www.instagram.com/polcaronet/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" target="_blank"></a>
 <a href = "https://mail.google.com/mail/u/0/#inbox?compose=jrjtWvNcqgPjtqXSTfsmwmltsmsMvhSRllhwGMVGQPLhmshxdprVKqBdCxXpBFLtBXQTwGzq"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" title="Email" target="_blank"></a>
-<a href="https://api.whatsapp.com/send/?phone=5522995679182&text&type=phone_number&app_absent=0" target="_blank"><img align="left-end" alt="Ansel-WhatsApp" height="35em" style="border-radius:35px;" title="WhatsApp" src="https://github.com/user-attachments/assets/e0c044ac-507f-4da5-8de3-313092d3ef21"?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send/?phone=5521995679182&text&type=phone_number&app_absent=0" target="_blank"><img align="left-end" alt="Ansel-WhatsApp" height="35em" style="border-radius:35px;" title="WhatsApp" src="https://github.com/user-attachments/assets/e0c044ac-507f-4da5-8de3-313092d3ef21"?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </a></p></div>
 
 
