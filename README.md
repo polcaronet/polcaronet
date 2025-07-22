@@ -14,7 +14,7 @@
 <body>
 <div>
 <a href="https://github.com/polcaronet">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?hide_title=true&show_icons=true&include_all_commits=true&count_private=&theme=&locale=en&hide_border=false&username=polcaronet" alt="stats graph" style="text-decoration: none;"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?hide_title=true&show_icons=true&include_all_commits=true&count_private=&theme=solarized-light&locale=en&hide_border=false&username=polcaronet" alt="stats graph" style="text-decoration: none;"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&username=polcaronet" alt="languages graph" style="text-decoration: none;"/>
 <div></div></a>
 </div>
