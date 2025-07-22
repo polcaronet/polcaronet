@@ -13,27 +13,27 @@
 ***
 </head>
 <body>
- <div style="display: inline_block"><td>
+ <div style="display: none"><td>
  <a href="https://github.com/polcaronet">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?hide_title=true&show_icons=true&include_all_commits=true&count_private=&theme=&locale=en&hide_border=false&username=polcaronet" alt="stats graph" style="text-decoration: none;"/>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-light&hide_border=false&username=polcaronet" alt="languages graph" style="text-decoration: none;"/>
  <div></div></a></td>
   
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullStack developer from Brazil</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<section style="display: inline_block">
+<section style="display:text-decoration: none;">
  <div>
 <p align="left">
   <!-- Web/App Focused (15 primeiros) -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://reactnative.dev/" target="_blank" style="text-decoration: none;">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://developer.android.com" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -107,7 +107,7 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -135,10 +135,3 @@
 </a></p></div>
 </body>
 </html>
-
-
-
-
-
-
-
