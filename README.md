@@ -24,8 +24,8 @@
 <p align="center"> 
  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="35em" height="35em" /> 
  </a> 
- <a href="https://angular.io" target="_blank" rel="noreferrer> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="35em" height="35em"/> 
- </a> 
+ <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="35em" height="35em"/> 
+ </a>
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35em" height="35em"/> 
  </a> 
  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="35em" height="35em"/> 
