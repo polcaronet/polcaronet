@@ -7,8 +7,8 @@
 
 # _**Quem sou eu?**_
 
- **`Anselmo` `Polcaro`**, brasileiro, apaixonado por desenvolvimento de **`Apps`** e de **`Sistemas` `Web.`**
- Atualmente focado em adquirir o máximo de aproveitamento do meu curso e depois seguir para criação de **`Websites`** e **`Aplicativos.`**
+ **`Anselmo` `Polcaro`**, brasileiro, apaixonado por desenvolvimento de **`Apps`** em **`Flutter`** com **`Dart.`**
+ Atualmente focado em Aplicativos **`Mobile`** **`E-Commerce`** e em geral.
 ***
 </head>
 <body>
