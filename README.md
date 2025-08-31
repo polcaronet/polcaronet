@@ -2,7 +2,7 @@
 <html>
 <head>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+🧔🏼‍♂️;+meu+nome+é;+Anselmo+Polcaro+;+🎓+estou+desenvolvendo;+aplicações+de+mobile;+e+em+dart+com+Flutter;+sou+Desenvolvedor+Senior!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+🖥️;+meu+nome+é;+Anselmo+Polcaro+;+🎓+estou+desenvolvendo;+aplicações+de+mobile;+e+em+dart+com+Flutter;+sou+Desenvolvedor+Senior!;" />
 </h1>
 
 # _**Quem sou eu?**_
