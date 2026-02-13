@@ -17,7 +17,6 @@
 
 <div align="center">
   <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polcaronet&theme=tokyonight" alt="Profile Details"/>
-  <img height="200em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=polcaronet&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -25,6 +24,14 @@
   <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=polcaronet&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 
+
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thamiscoder/thamiscoder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thamiscoder/thamiscoder/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thamiscoder/thamiscoder/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <br/>
 
 
