@@ -24,14 +24,12 @@
   <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=polcaronet&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 
-
 ## 🐍 Minhas Contribuições
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
