@@ -36,7 +36,10 @@
  </a> 
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35em" height="35em"/> 
- </a> 
+ </a>
+ <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35em" height="35em"/> 
+ </a>
  <a href="https://dart.dev/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="35em" height="35em"/> 
  </a>
@@ -51,7 +54,10 @@
  </a>
  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35em" height="35em"/> 
- </a> 
+ </a>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35em" height="35em"/> 
+ </a>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35em" height="35em"/> 
  </a>
