@@ -30,6 +30,9 @@
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35em" height="35em"/>
  </a>
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35em" height="35em"/> 
+ </a>
  <a href="https://flutter.dev/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="35em" height="35em"/> 
  </a>
@@ -53,6 +56,9 @@
  </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35em" height="35em"/> 
+ </a>
+ <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="35em" height="35em"/> 
  </a> 
 </p>
 
