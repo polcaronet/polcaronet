@@ -34,7 +34,6 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 <br/>
 
 
