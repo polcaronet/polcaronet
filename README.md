@@ -14,22 +14,7 @@
 <body>
 <div>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polcaronet&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=polcaronet&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polcaronet&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-
-## _**Languages and Tools:**_
+## _**🛠️ Languages and Tools:**_
 
 <p align="center"> 
  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
