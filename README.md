@@ -16,13 +16,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polcaronet&theme=tokyonight" alt="Profile Details"/>
-  <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=polcaronet&theme=tokyonight&hide_border=true"/>
+  <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=polcaronet&theme=tokyonight" alt="Profile Details"/>
+  <img height="200em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=polcaronet&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=polcaronet&theme=tokyonight" alt="Repos per Language"/>
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=polcaronet&theme=tokyonight" alt="Most Commit Language"/>
+  <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=polcaronet&theme=tokyonight" alt="Repos per Language"/>
+  <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=polcaronet&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 
 <br/>
