@@ -61,6 +61,9 @@
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35em" height="35em"/> 
  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35em" height="35em"/> 
+ </a>
  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="35em" height="35em"/> 
  </a> 
@@ -75,6 +78,12 @@
  </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35em" height="35em"/> 
+ </a>
+ <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35em" height="35em"/> 
+ </a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35em" height="35em"/> 
  </a>
  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="35em" height="35em"/> 
