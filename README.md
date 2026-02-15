@@ -24,7 +24,7 @@
   <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=polcaronet&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 
-## 🐍 Minhas Contribuições
+## 🐍 My Contributions
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/polcaronet/polcaronet/output/github-snake-dark.svg">
