@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fez6k/github-profile-summary-cards@release
+      - uses: vn7n24fez6k/github-profile-summary-cards@v0.6.1
         with:
           USERNAME: polcaronet
           BRANCH_NAME: main
