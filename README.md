@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+🖥️;+meu+nome+é;+Anselmo+Polcaro+;+🎓+estou+desenvolvendo;+aplicações+de+mobile;+e+em+dart+com+Flutter!;" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+🖥️;+my+name+is+Anselmo+Polcaro;+🎓+I+develop;+mobile+applications;+using+Dart+and+Flutter!;" /></h1>
 
-# _**Quem sou eu?**_
+# _**Who am I?**_
 
-**`Anselmo` `Polcaro`**, brasileiro, apaixonado por desenvolvimento de **`Apps`** em **`Flutter`** com **`Dart.`** Atualmente focado em Aplicativos **`Mobile`** **`E-Commerce`** e em geral.
+**`Anselmo` `Polcaro`**, Brazilian, passionate about **`Flutter`** app development using **`Dart.`** Currently focused on **`Mobile`** applications, especially **`E-Commerce`** apps and general-purpose mobile solutions.
 
 ---
 
@@ -55,7 +55,7 @@
 
 ---
 
-## _**Contact me:**_
+## _**Contact Me:**_
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anselmo-polcaro-ribeiro-b2a570207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/></a>
