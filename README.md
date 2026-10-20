@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+🖥️;+meu+nome+é;+Anselmo+Polcaro+;+🎓+estou+desenvolvendo;+aplicações+de+mobile;+e+em+dart+com+Flutter!;" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+meu+nome+é;+Anselmo+Polcaro+🧑;+🔴+Streamer+no+TikTok;+🎙️+faço+lives+todo+dia;+📱+e+desenvolvo+apps;+em+dart+com+Flutter+💙;"/></h1>
 
 # _**Quem sou eu?**_
 
-**`Anselmo` `Polcaro`**, brasileiro, apaixonado por desenvolvimento de **`Apps`** em **`Flutter`** com **`Dart.`** Atualmente focado em Aplicativos **`Mobile`** **`E-Commerce`** e em geral.
+**`Anselmo` `Polcaro`**, brasileiro, **Streamer no TikTok** (@anselmopolcaro e @polcaro39) com lives todas as noites. Também desenvolvo `Apps` em `Flutter` com `Dart` para `Android`. Site: www.polcaronet.com.br
 
 ---
 
