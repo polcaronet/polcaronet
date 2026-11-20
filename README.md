@@ -2,7 +2,7 @@
 
 # _**Quem sou eu?**_
 
-**`Anselmo` `Polcaro`**, brasileiro, **Streamer no TikTok** (@anselmopolcaro e @polcaro39) com lives todas as noites. Também desenvolvo `Apps` em `Flutter` com `Dart` para `Android`. Site: www.polcaronet.com.br
+**`Anselmo` `Polcaro`**, brasileiro, **Streamer no TikTok** (@anselmopolcaro e @polcaro39) com lives à tarde e a noite. Também desenvolvo `Apps` em `Flutter` com `Dart` para `Android`. Site: www.polcaronet.com.br
 
 ---
 
